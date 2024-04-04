@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: emartinezsuarez
+Build-Jdk: 17.0.3
+Implementation-Title: spring-boot-lab
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: top-developer-academy
+Implementation-URL: https://spring.io/projects/spring-boot/spring-boot-o
+ nline-store-lab
+Created-By: Maven Integration for Eclipse
+
